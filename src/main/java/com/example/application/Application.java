@@ -16,7 +16,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
  *
  */
 @SpringBootApplication
-@Theme(value = "date-picker-reference-date-dx-tests-app")
+@Theme(value = "refdatedxtestsapp")
 @PWA(name = "Date Picker Reference Date DX Tests App", shortName = "Date Picker Reference Date DX Tests App", offlineResources = {})
 @NpmPackage(value = "@adobe/lit-mobx", version = "2.0.0")
 @NpmPackage(value = "mobx", version = "^6.3.5")

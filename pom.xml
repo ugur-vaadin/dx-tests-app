@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example.application</groupId>
-    <artifactId>date-picker-reference-date-dx-tests-app</artifactId>
+    <artifactId>ref-date-dx-tests-app</artifactId>
     <name>Date Picker Reference Date DX Tests App</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -11,7 +11,7 @@
     <properties>
         <java.version>11</java.version>
         <vaadin.version>23.3.0.alpha2</vaadin.version>
-        <hilla.version>1.3.0.alpha1</hilla.version>
+        <hilla.version>1.3.0.alpha2</hilla.version>
     </properties>
 
     <parent>

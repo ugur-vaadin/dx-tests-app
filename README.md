@@ -1,4 +1,4 @@
-# DX Tests App
+# Date Picker Reference Date DX Tests App
 
 ## Running the application
 
@@ -15,23 +15,14 @@ IDEs](https://vaadin.com/docs/latest/guide/step-by-step/importing) (Eclipse, Int
 The test session consists of the following tasks.
 Please see comments in the code for descriptions.
 
-### 1. TabSheet (Flow)
+### 1. Date Picker (Flow)
 
-Use `TabSheetView.java` for development.
+Use `DatePickerView.java` for development.
 
-### 2. Tooltip (Flow)
+### 2. Date Picker (Hilla)
 
-Use `TooltipView.java` for development.
-
-### 3. TabSheet (Hilla)
-
-Use `tabsheet-view.ts` for development.
-
-### 4. Tooltip (Hilla)
-
-Use `tooltip-view.ts` for development.
+Use `date-picker-view.ts` for development.
 
 ## Documentation
 
-- [TabSheet](https://vaadin.com/docs/latest/components/tabs)
-- [Tooltip](https://vaadin.com/docs/latest/components/tooltip)
+- [Date Picker](https://vaadin.com/docs/latest/components/date-picker)

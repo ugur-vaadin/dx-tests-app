@@ -2,7 +2,7 @@ import { RouterLocation } from '@vaadin/router';
 import { makeAutoObservable } from 'mobx';
 
 export class AppStore {
-  applicationName = 'DX Tests App';
+  applicationName = 'Date Picker Reference Date DX Tests App';
 
   // The location, relative to the base path, e.g. "hello" when viewing "/hello"
   location = '';
